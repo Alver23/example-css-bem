@@ -1,6 +1,7 @@
 # Css con BEM
 
-```npm i ```
+- instalar dependencias
+`` npm i ``
 
 - Compilar Sass a css
 ```npm run sass```
