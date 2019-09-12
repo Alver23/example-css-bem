@@ -19,10 +19,5 @@
   },
   "homepage": "https://github.com/Alver23/example-css-bem#readme",
   "devDependencies": {
-    "fibers": "^4.0.1",
-    "gulp": "^4.0.2",
-    "gulp-sass": "^4.0.2",
-    "node-sass": "^4.12.0",
-    "sass": "^1.23.0-module.beta.1"
   }
 }
